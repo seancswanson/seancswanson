@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [seancswanson.com/cv](seancswanson.com/cv).
 
-- ⚡ Fun fact **I was in a John Mayer music video for the song "I Still Feel Like You're Man".**
+- ⚡ Fun fact **I was in a John Mayer music video for the song "I Still Feel Like Your Man".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
