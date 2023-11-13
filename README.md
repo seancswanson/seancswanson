@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **SvelteKit, Program Management**.
 
-- 👯 I’m looking to collaborate on [**music and data visualizations**](seancswanson.com/art).
+- 👯 I’m looking to collaborate on [**music and data visualizations**](www.seancswanson.com/art).
 
-- 👨‍💻 A sample of my projects are displayed at [seancswanson.com](seancswanson.com).
+- 👨‍💻 A sample of my projects are displayed at [seancswanson.com](www.seancswanson.com).
 
-- 📝 I occasionally write articles on [seancswanson.com/blog](seancswanson.com/blog).
+- 📝 I occasionally write articles on [seancswanson.com/blog](www.seancswanson.com/blog).
 
 - 📫 How to reach me **hello@swansondigitalarts.com**.
 
-- 📄 Know about my experiences [seancswanson.com/cv](seancswanson.com/cv).
+- 📄 Know about my experiences [seancswanson.com/cv](www.seancswanson.com/cv).
 
 - ⚡ Fun fact **I was in a John Mayer music video for the song "I Still Feel Like Your Man".**
 
