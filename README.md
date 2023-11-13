@@ -3,21 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seancswanson" alt="seancswanson" /></a> </p>
 
-- 🔭 I’m currently working on [DreamBox Learning's Marketing Website](www.dreambox.com).
+- 🔭 I’m currently working on [DreamBox Learning's Marketing Website](https://dreambox.com).
 
 - 🌱 I’m currently learning **SvelteKit, Program Management**.
 
-- 👯 I’m looking to collaborate on [**music and data visualizations**](www.seancswanson.com/art).
+- 👯 I’m looking to collaborate on [**music and data visualizations**](https://seancswanson.com/art).
 
-- 👨‍💻 A sample of my projects are displayed at [seancswanson.com](www.seancswanson.com).
+- 👨‍💻 A sample of my projects are displayed at [seancswanson.com](https://seancswanson.com).
 
-- 📝 I occasionally write articles on [seancswanson.com/blog](www.seancswanson.com/blog).
+- 📝 I occasionally write articles on [seancswanson.com/blog](https://seancswanson.com/blog).
 
 - 📫 How to reach me **hello@swansondigitalarts.com**.
 
-- 📄 Know about my experiences [seancswanson.com/cv](www.seancswanson.com/cv).
+- 📄 Know about my experiences [seancswanson.com/cv](https://seancswanson.com/cv).
 
-- ⚡ Fun fact **I was in a John Mayer music video for the song "I Still Feel Like Your Man".**
+- ⚡ Fun fact **I was in the music video for John Mayer's song "I Still Feel Like Your Man".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
