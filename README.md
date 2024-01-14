@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seancswanson" alt="seancswanson" /></a> </p>
 
-- 🔭 I’m currently working on [DreamBox Learning's Marketing Website](https://dreambox.com).
+- 🔭 I’m currently working as the Website/Digital Marketing Manager at [Discovery Education](https://discoveryeducation.com).
 
-- 🌱 I’m currently learning **SvelteKit, Program Management**.
+- 🌱 I’m always learning something, but right now I'm particularly interested in: **SvelteKit, Program Management**.
 
 - 👯 I’m looking to collaborate on [**music and data visualizations**](https://seancswanson.com/art).
 
-- 👨‍💻 A sample of my projects are displayed at [seancswanson.com](https://seancswanson.com).
+- 👨‍💻 A sample of my projects is displayed at [seancswanson.com](https://seancswanson.com).
 
 - 📝 I occasionally write articles on [seancswanson.com/blog](https://seancswanson.com/blog).
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [seancswanson.com/cv](https://seancswanson.com/cv).
 
-- ⚡ Fun fact **I was in the music video for John Mayer's song "I Still Feel Like Your Man".**
+- ⚡ Fun fact: **I was in the music video for John Mayer's song "I Still Feel Like Your Man".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
