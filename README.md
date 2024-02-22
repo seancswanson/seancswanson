@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sean Swanson</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">I am Sean Swanson, a Seattle-based web developer, artist, and bboy with a multifaceted skill set in web development and project management.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seancswanson" alt="seancswanson" /></a> </p>
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **hello@swansondigitalarts.com**.
 
-- 📄 Know about my experiences [seancswanson.com/cv](https://seancswanson.com/cv).
+- 📄 Find my CV at [seancswanson.com/cv](https://seancswanson.com/cv).
 
-- ⚡ Fun fact: **I was in the music video for John Mayer's song "I Still Feel Like Your Man".**
+- ⚡ Fun fact: **I was a supporting actor in the music video for John Mayer's song "I Still Feel Like Your Man".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
